@@ -22,6 +22,9 @@ The following branches were used during this project:
 
 I created a merge conflict by changing the same part of `index.html` in two different branches. I resolved it by reviewing the changes, accepting both, and committing the final version.
 
+## Collaboration
+Reviewed a peer’s pull request on GitHub, checked the code changes, and verified that everything looked correct before approving the changes.
+
 ## Technologies Used
 
 - HTML5
